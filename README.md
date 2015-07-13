@@ -1,2 +1,3 @@
 # 5363-Crypto-Programming-MrudulaKosaraju
-this is me
+my name : Mrudula Kosaraju  
+mail id: mrudula.ks123@gmail.com
